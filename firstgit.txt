@@ -1,2 +1,359 @@
-first get file
 
+
+<!DOCTYPE html>
+<html>
+
+
+<head>
+
+<meta charset="utf-8">
+<!--------- bootstarp ---->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css">
+
+<link  href="snow2.css" rel="stylesheet">
+
+
+<style>
+
+
+
+</style>
+</head>
+
+<body>
+
+<!----navbar----->
+<div class=" showcase">
+
+<nav class="navbar  navbar-inverse  navbar-expand-lg navbar-light ">
+  
+ <div class="container">
+  <a class="navbar-brand" href="#"><img  src="snow.png" alt="logo here"></a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false"   aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse justify-content-end " id="navbarNav">
+    <ul class="nav navbar-nav">
+      <li class="nav-item active">
+        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Features</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Pricing</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Disabled</a>
+      </li>
+    </ul>
+  </div>
+  </div>
+</nav>
+<div  class="designrow" >
+<h3>New Branding Agency<h3>
+<p>We are about to change the way</p>
+<p>you publish on the web</p>
+ <br><i class="fa fa-chevron-circle-down" aria-hidden="true"></i></div>
+</div>
+</div>
+
+
+
+
+
+
+<!------------middle---->
+<div class="container-fluid designrow ">
+  <div class="row">
+    <div class="col-lg-12">
+     <div class="middle-style"> 
+<h1>About Our Agency</h1>
+
+<p> We are a new design studio based in USA. We have over 20 years of combined experience,and<br>
+ know a thing or two about designing websites and mobile apps. Clever use of technology and lean<br>
+           processes enable us to work faster and smarter.
+   </p>
+ <img src="sig.png">
+ 
+</div>
+
+  </div>
+</div></div
+
+<!------------middle---->
+
+
+
+<div class="container-fluid designrow bg-dark ">
+<div class="row pt-5">
+
+<div class=col-lg-3><i class="fa fa-briefcase  fa-4x " aria-hidden="true"></i>
+ </div>
+
+
+<div class=col-lg-3 bg-primar> <i class="fa fa-clock-o fa-4x" aria-hidden="true"></i>
+<div>1465<br>
+Working Hours</div>
+
+</div>
+
+<div class=col-lg-3> <i class="fa fa-star-o   fa-4x" aria-hidden="true"> </i> </div>
+<div class=col-lg-3><i class="fa fa-heart-o  fa-4x" aria-hidden="true"></i>
+ </div>
+
+</div></div>
+<!---- project area  ----->
+
+
+<div class="container-fluid designrow  ">
+  <div class="row">
+    <div class="col-lg-12">
+     <div class="middle-style"> 
+<h1>best project</h1>
+
+<p> We are a new design studio based in USA. We have over 20 years of combined experience,and<br>
+ know a thing or two about designing websites and mobile apps. Clever use of technology and lean<br>
+           processes enable us to work faster and smarter.
+   </p>
+
+ 
+</div>
+
+  </div>
+</div></div>
+
+
+
+
+<!---- image area ----->
+
+<div class="container pt-4 mb-5">
+  <div class="row rowns">
+    <div class="col-md-4 column">
+      <div class="row subrow" > <div class="col-xs-12"> <img src="middle2.jpeg"   class="himg" alt></div></div>
+        <div class="row subrow p"> <div class="col-xs-12"> <img src="middle2.jpeg" class="himg"alt></div> </div>
+      </div>
+
+      <div class="col-md-4 column">
+           <div class="row subrow " > <div class="col-xs-12"> <img src="middle2.jpeg"  class="himg" alt></div></div>
+           <div class="row  subrow"> <div class="col-xs-12"> <img src="middle2.jpeg" class="himg"alt></div> </div>
+      </div>
+    
+      <div class="col-md-4 column">
+      <img src="gift-brown-shopping-market.jpg" class="vimg"> 
+      </div>
+  
+</div>
+
+
+
+<!---------second row---->
+
+
+      <div class="row rowns pt-5">
+         <div class="col-md-4 column">
+         <img src="gift-brown-shopping-market.jpg "  text =""class="vimg"> 
+         </div>
+
+           <div class="col-md-4 column">
+             <img src="gift-brown-shopping-market.jpg" class="vimg"> 
+            </div>
+    
+            <div class="col-md-4 column">
+              <div class="row subrow" > <div class="col-xs-12"> <img src="middle2.jpeg"   class="himg" alt></div></div>
+              <div class="row  subrow"> <div class="col-xs-12 "> <img src="middle2.jpeg" class="himg"alt></div> </div>
+
+      </div>
+  
+</div>
+</div>
+
+<!-----------------------finish---->
+
+
+
+
+
+
+<!------------ending of pic style----->
+<div class="container-fluid  slideshow ">
+
+<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+ 
+  <div class="carousel-inner" role="listbox">
+
+
+ <ol class="carousel-indicators">
+    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+  </ol>
+ 
+ <div class="carousel-item active">
+      <p> helllllllo</p>
+    </div>
+    <div class="carousel-item">
+      <img class="d-block img-fluid" src="boards-glasses-smartphone-phone-75652.jpeg" alt="Second slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block img-fluid" src="boards-glasses-smartphone-phone-75652.jpeg" alt="Third slide">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+
+
+</div>
+
+<!---- ending of navbar----->
+
+
+
+
+
+<div class=" container ">
+
+ <div class="row branding special">
+<div class="col-lg-2 "> <img src="logo1.png" class="col-log"></div>
+<div class="col-lg-2 "> <img src="logo2.png" class="col-log"></div>
+<div class="col-lg-2 "> <img src="logo3.png" class="col-log"></div>
+<div class="col-lg-2 "> <img src="logo4.png" class="col-log"></div>
+<div class="col-lg-2 "><img src="logo5.png" class="col-log"></div>
+
+</div>
+
+</div>
+
+<!-----------------latest trend------------>
+
+
+<div class="container-fluid  latestblog">
+<div class="container">
+
+<div class="row" >
+<div class="col-lg-12">
+
+<div class="designrow">   <h1>Latest Blog</h1><p>
+Donec orci sem, pretium ac dolor et, faucibus faucibus mauris. 
+Etiam,pellentesque faucibus.<br> Vestibulum gravida volutpat ipsum non ultrices.
+</p></div>
+
+</div>
+
+
+</div>
+
+</div>
+</div>
+
+
+<!-------------------------contact info----------------->
+
+<div class="container-fluid">
+<div class="container ">
+<div class="row">
+             
+
+        <div class="col-lg-6">
+            <div class="container  formstyle">
+
+             <div> <h1>contact info</h1><br>
+             <p> Praesent interdum congue mauris, et fringilla lacus pel<br>
+                vitae. Quisque nisl mauris, aliquam eu ultrices vel, conse <br>
+               vitae sapien at imperdiet risus. Quisque cursus risus id.<br> 
+              fermentum, in auctor quam consectetur.</p> 
+          </div>  
+            
+            <div> <p><strong>Address:</strong> 10111 Santa Monica Boulevard, LA</p></div>
+            <div> <p><strong>Phone:</strong> +44 987 065 908</p></div>      
+             <div> <p><strong>Email:</strong> info@Example.com</p></div>
+            <div> <p><strong>Fax:</strong>  +44 987 065 909</p></div>
+         </div></div>
+             
+              
+                 
+                 <div class="col-lg-6">
+                      <div class="formstyle">
+                  <form>
+  <div class="row">
+    <div class="col">
+      <input type="text" class="form-control" placeholder="First name">
+    </div>
+    <div class="col">
+      <input type="text" class="form-control" placeholder="Last name">
+    </div>
+  </div>
+</form>    
+                  
+                  
+                     <form>
+                        <div class="form-group pt-3">
+                          <input type="text" class="form-control" id="formGroupExampleInput2" placeholder="Another input">
+                          </div>
+
+                          <div class="form-group">
+                           <input class="form-control" id="extampleField" placeholder="Type here" type="text">
+                            </div>
+
+                           <div class="form-group">
+                         
+                          <textarea class="form-control" id="exampleFormControlTextarea1" rows="6"></textarea>
+                        </div>
+
+                         <button type="submit" class="btn btn-dark btn-lg  btncustome">Sign in</button>
+                       </form>
+
+                  </div></div>
+
+
+
+  </div>
+</div>
+</div>
+
+<!-----------footer------>
+ <footer>
+<div class="container-fluid bgfooter ">
+<div class="row ">
+<div class="col-md-4"></div>
+
+
+</div>
+
+
+
+
+</div>
+
+</footer>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-----------------latest trend------------>
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
+
+</body>
+</html>
